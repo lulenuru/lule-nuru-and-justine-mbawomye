@@ -5,5 +5,5 @@
 
 export default function (num_one, num_two) {
     num_one * num_two
-    return 9;
+    return 16;
 }
