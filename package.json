@@ -1,0 +1,22 @@
+{
+  "name": "software_testing_with_tdd",
+  "version": "1.0.0",
+  "description": "tdd multiplication assignment",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulenuru/lule-nuru-and-justine-mbawomye.git"
+  },
+  "author": "justine and nuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulenuru/lule-nuru-and-justine-mbawomye/issues"
+  },
+  "homepage": "https://github.com/lulenuru/lule-nuru-and-justine-mbawomye#readme"
+}
